@@ -1,0 +1,55 @@
+*¨{
+    margin: 0;
+    padding: 0;
+}
+body{
+    text-align: 200px;
+    background:black;
+    background: linear-gradient(0deg,black);
+
+}
+h1{
+    color: rgb(197, 20, 20);
+    font-size: 50px;
+    font-weight: bolder;
+    text-shadow: 5px 5px 5px pink;
+    margin: 10px;
+}
+h5{
+    color: rgb(197, 20, 20);
+    font-size: 25px;
+    font-weight: bolder;
+    text-shadow: 5px 5px 5px pink;
+    margin: 10px;
+}
+a{
+    width: 250px;
+    height: 30px;
+    padding: 20px;
+    margin: 20px auto;
+    font-size: 20px;
+    text-decoration: none;
+    display: block;
+    background:rgb(197, 20, 20);
+    color:pink;
+    border: solid black;
+    box-shadow: 0px 0px 10px pink;
+    text-align: center;
+
+}
+a:hover{
+    background: rgb(145, 11, 11);
+    color: pink;
+    transform: scale(1.0);
+    transition: 2s all ease;
+
+}
+a:active{
+    background: rgb(233, 10, 84);
+    color: red;
+    transform: scale(1.0);
+    transition: 3s all ease;
+
+}
+
+

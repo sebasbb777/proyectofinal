@@ -1,0 +1,17 @@
+*¨{
+    margin: 0;
+    padding: 0;
+}
+body{
+    text-align: 200px;
+    background:linear-gradient(blue,BLACK);
+    
+
+}
+h1{
+    color: rgb(197, 20, 20);
+    font-size: 50px;
+    font-weight: bolder;
+    text-shadow: 5px 5px 5px pink;
+    margin: 10px;
+}
